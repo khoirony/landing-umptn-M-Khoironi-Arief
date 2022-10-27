@@ -1,0 +1,23 @@
+{
+  "name": "landing-umptn-m-khoironi-arief",
+  "version": "1.0.0",
+  "description": "Landing Page Untuk Tugas Matrikulasi Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoirony/landing-umptn-M-Khoironi-Arief.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoirony/landing-umptn-M-Khoironi-Arief/issues"
+  },
+  "homepage": "https://github.com/khoirony/landing-umptn-M-Khoironi-Arief#readme",
+  "keywords": [],
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
